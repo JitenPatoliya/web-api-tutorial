@@ -14,3 +14,6 @@ https://www.strathweb.com/2014/10/route-matching-overriding-404-asp-net-web-api/
 
 Web API Contrib ( Fomratter etc... )
 https://github.com/WebApiContrib
+
+RFC7807 Custom exceptions
+https://www.nuget.org/packages/DeLoachAero.WebApi.RFC7807/
